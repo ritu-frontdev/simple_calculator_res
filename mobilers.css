@@ -1,0 +1,484 @@
+@media screen and (min-width:250px) and (max-width:271px){
+       .text1 h1{
+        display: block;
+        font-size: 1.5rem;
+        width: 70%;
+        margin: auto;
+        padding-top: 2rem;
+    }
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+       }
+
+    .screen input{
+        width:100%;
+        margin: auto;
+        border-radius: 20px;
+        font-size: 2rem;
+    }
+     .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+    }
+
+    .calbtn{
+        width: 100%;
+        aspect-ratio: 2/3   ;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+    
+    .btn{
+        flex: 1 1 55px;
+        padding-top: auto;
+    }
+
+    .btn button{ 
+        width: 100%; 
+        border-radius: 25%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+    }
+    
+    }
+
+@media only screen and (min-width:272px) and (max-width:309px){
+    .text1 h1{
+        display: block;
+        font-size: 2rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 1rem;
+     
+        }
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+           }
+
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 2rem;
+        color: aliceblue;
+        background-color: darkslategray
+        
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        /* aspect-ratio: 2/3; */
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .btn{
+        flex: 1 1 60px;
+        padding-top: auto;
+        }
+    .btn button{ 
+        width: 100%; 
+        border-radius: 25%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        }
+        }
+
+@media only screen and (min-width:310px) and (max-width:323px){
+    .text1 h1{
+        display: block;
+        font-size: 2rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 2rem;
+        }
+
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        }
+        
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 2rem;
+        color: aliceblue;
+        background-color: darkslategray
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        /* aspect-ratio: 2/3; */
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .btn{
+        flex: 1 1 70px;
+        padding-top: auto;
+        }
+
+    .btn button{ 
+        width: 100%; 
+        border-radius: 25%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        /* aspect-ratio: 1/1; */
+        }
+        }
+        
+@media only screen and (min-width:324px) and (max-width:359px) {
+    .text1 h1{
+        display: block;
+        font-size: 2rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 2rem;
+        }
+        
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        }   
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 2.5rem;
+        color: aliceblue;
+        background-color: darkslategray
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .btn{
+        flex: 1 1 70px;
+        padding-top: auto;
+        }
+
+    .btn button{ 
+        width: 100%; 
+        border-radius: 30%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        /* aspect-ratio: 1/1; */
+        }
+        }
+
+@media only screen and (min-width:360px) and (max-width:409px) {
+
+    .text1 h1{
+        display: block;
+        font-size: 2.5rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 1rem;
+        }
+
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        }
+
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 2.5rem;
+        color: aliceblue;
+        background-color: darkslategray
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .btn{
+        flex: 1 1 80px;
+        padding-top: auto;
+        }
+        
+    .btn button{ 
+        width: 100%; 
+        border-radius: 20%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        }
+        }
+
+@media only screen and (min-width:410px) and (max-width:430px) {
+
+    .text1 h1{
+        display: block;
+        font-size: 2.5rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 1rem;
+        }
+
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        }
+    
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 3.5rem;
+        color: aliceblue;
+        background-color: darkslategray
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        /* aspect-ratio: 2/3; */
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .btn{
+        flex: 1 1 90px;
+        padding-top: auto;
+        }
+
+    .btn button{ 
+        width: 100%; 
+        border-radius: 30%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        font-size: 2.5rem;
+        }
+        }
+
+@media only screen and (min-width:431px) and (max-width:474px) {
+
+    .text1 h1{
+        display: block;
+        font-size: 2.7rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 1rem;
+        }
+
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        }
+
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 3.5rem;
+        color: aliceblue;
+        background-color: darkslategray
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .btn{
+        flex: 1 1 90px;
+        padding-top: auto;
+        }
+
+    .btn button{ 
+        width: 100%; 
+        border-radius: 30%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        font-size: 3.5;
+        }
+        }
+
+@media only screen and (min-width:475px) and (max-width:574px) {
+    .text1 h1{
+        display: block;
+        font-size: 3.2rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        }
+
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 3.5rem;
+        color: aliceblue;
+        background-color: darkslategray
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .btn{
+        flex: 1 1 110px;
+        padding-top: auto;
+        }
+
+    .btn button{ 
+        width: 100%; 
+        border-radius: 25%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        font-size: 3.5rem;
+        }
+        }
+@media only screen and (min-width:575px) and (max-width:600px) {
+    
+    .text1 h1{
+        display: block;
+        font-size: 3.5rem;
+        width: 100%;
+        margin: auto;
+        padding-top: 0rem;
+        }
+
+    .screen{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        }
+
+    .screen input{
+        width: 100%;
+        height: 15vh;
+        margin:auto;
+        border-radius: 20px;
+        font-size: 4rem;
+        color: aliceblue;
+        background-color: darkslategray
+        }
+
+    .calculatorbox{
+        width: 100%;
+        aspect-ratio: 2/4;
+        border: 1px solid black;
+        margin: auto;
+        }
+
+    .calbtn{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 2px;
+        margin: auto;
+        }
+
+    .btn{
+        flex: 1 1 120px;
+        padding-top: auto;
+        }
+
+    .btn button{ 
+        width: 100%; 
+        border-radius: 30%;
+        margin-bottom: 1rem;
+        border-bottom: 5px solid;
+        font-size: 3.5rem;
+        }
+        }
+
