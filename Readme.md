@@ -24,7 +24,7 @@ USAGE:
 3. Press the equals button (=) to the result.
 4. Use the clear button (C) to reset the calculator
 
-
+https://ritu-frontdev.github.io/simple_calculator_res/
 
 
 
