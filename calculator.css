@@ -11,14 +11,12 @@ html,body{
 }
 
 .text1,h1{
-    /* height: 50px;     */
     font-size: 1.5rem;
-    /* border: 5px solid; */
     text-align: center;
     color:antiquewhite;
     font-size: 4rem;
-    /* padding-top: 15px; */
 }
+
 .screen input{
     width: 35rem;
     height: 15vh;
@@ -29,6 +27,7 @@ html,body{
     color: aliceblue;
     background-color: darkslategray
 }
+
 .calculatorbox{
     border: 2px solid black;
     width: 35rem;
@@ -48,15 +47,12 @@ html,body{
 .btn{
     flex: 1 1 120px;
     width: 20%;
-    /* margin-left: 1rem; */
     }
     
- .btn button{
+.btn button{
     min-width: 90%;
-    /* max-width: 100%; */
     max-width: 95%;
     min-height: 4rem;
-    /* max-height: 10rem;     */
     max-height: 8.5rem;
     border-radius: 8%;
     border-bottom: 5px solid;
@@ -64,6 +60,7 @@ html,body{
     cursor: pointer;
     margin-left: 0.1rem;
 }
+
 .btn button:hover{
     background-color:lightgrey;
     transition: 2s;
